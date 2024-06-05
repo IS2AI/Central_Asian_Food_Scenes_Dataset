@@ -20,7 +20,7 @@ https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/CAFD.zip
 
 To illustrate the performance of different classification models on CAFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories.
 
-<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/table_results.png" width="1200" height="600">
+<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/table_results.png" width="1200" height="500">
 
 Pre-trained model weights of the best performing models: ResNet152 on KFD and EfficientNet-b4 on Food1K+KFD can be downloaded using these links:
 
