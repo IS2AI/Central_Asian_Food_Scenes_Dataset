@@ -8,7 +8,7 @@ Figure below illustrates the samples and name for each class.
 
 The dataset is unbalaced. The statistics across high-level 18 classes is shown on Figure below.
 
-<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/statistics.png" width="500" height="600">
+<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/statistics.png" width="800" height="900">
 
 # Download the dataset
 
