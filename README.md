@@ -6,9 +6,9 @@ Figure below illustrates the samples and name for each class.
 
 <img src="https://github.com/IS2AI/Kazakh-Food-Dataset/blob/main/figures/samples.png" width="750" height="700">
 
-The dataset is unbalaced. The statistics across all 42 classes is shown on Figure below.
+The dataset is unbalaced. The statistics across high-level 18 classes is shown on Figure below.
 
-<img src="https://github.com/IS2AI/Kazakh-Food-Dataset/blob/main/figures/stats_plot.png" width="500" height="600">
+<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/statistics.png" width="500" height="600">
 
 # Download the dataset
 
