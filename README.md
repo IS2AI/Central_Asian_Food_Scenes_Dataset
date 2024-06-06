@@ -10,6 +10,13 @@ The dataset is unbalaced. The statistics across high-level 18 classes is shown o
 
 <img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/statistics.png" width="800" height="900">
 
+# Dataset split across the folds
+
+|Fold| Train| Validation| Test| Food1K+CAFD|
+|-----|-----------------|-----------------|--------------------|
+|images|17,046|2,084|2,176|
+|instances|55,422|7,062|7,381|
+
 # Download the dataset
 
 The dataset can be downloaded using the link below. If there are some issues with the link, please, email us on issai@nu.edu.kz
