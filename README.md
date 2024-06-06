@@ -1,5 +1,5 @@
 # Central_Asian_Food_Scenes_Dataset
-In this work, we propose the first Central Asia Food Scenes Dataset that contains 21,306 images with 69,856 instances across 239 food classes. To make sure that the dataset contains various food items, we took as a benchmark the ontology of Global Individual Food Tool developed by Food and Agriculture Organization (FAO) together with the World Health Organization (WHO). The dataset contains food items across 18 coarse classes: vegetables, baked flower-based products, cooked dishes, fruits, herbs, meat dishes, desserts, salads, sauces, drinks, dairy, fast-food, soups, sides, nuts, pickled and fermented food, egg product, and cereals. 
+In this work, we propose the first Central Asia Food Scenes Dataset that contains 21,306 images with 69,856 instances across 239 food classes. To make sure that the dataset contains various food items, we took as a benchmark the ontology of Global Individual Food Tool developed by Food and Agriculture Organization (FAO) together with the World Health Organization (WHO) [1]. The dataset contains food items across 18 coarse classes: vegetables, baked flower-based products, cooked dishes, fruits, herbs, meat dishes, desserts, salads, sauces, drinks, dairy, fast-food, soups, sides, nuts, pickled and fermented food, egg product, and cereals. 
 
 The dataset contains open source web-scraped images from the search engines (15,939 images) (i.e., Google, YouTube, and Yandex) and our own collected food images from everyday life (2,324 images). To additionally extend the number of instances of the underrepresented classes, we have scraped open-source videos and extracted frames at a rate one frame per second (3,043 images). The dataset has been checked and cleaned for duplicates using the Python Hash Image library. Furthermore, we have also filtered out images less than 30 kB in size and replaced them by performing additional iterative data scraping and duplicate check to make sure the high quality of the dataset.
 
@@ -55,9 +55,8 @@ https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8x.pt
 
 ## References
 <a id="1">[1]</a> 
-Min, Weiqing and Wang,  Zhiling (2021). 
-Large Scale Visual Food Recognition. 
-arXiv.
+[1] European Commission: Impact assessment on measures addressing food waste to complete swd (2014) 207 regarding the review of EU waste management target (2014). Accessed 5-22-2024.
+
 
 # In case of using our dataset and/or pre-trained models, please cite our work:
 ```
