@@ -55,20 +55,9 @@ https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8x.pt
 
 ## References
 <a id="1">[1]</a> 
-[1] European Commission: Impact assessment on measures addressing food waste to complete swd (2014) 207 regarding the review of EU waste management target (2014). Accessed 5-22-2024.
+European Commission: Impact assessment on measures addressing food waste to complete swd (2014) 207 regarding the review of EU waste management target (2014). Accessed 5-22-2024.
 
 
 # In case of using our dataset and/or pre-trained models, please cite our work:
 ```
-@Article{nu15071728,
-AUTHOR = {Karabay, Aknur and Bolatov, Arman and Varol, Huseyin Atakan and Chan, Mei-Yen},
-TITLE = {A Central Asian Food Dataset for Personalized Dietary Interventions},
-JOURNAL = {Nutrients},
-VOLUME = {15},
-YEAR = {2023},
-NUMBER = {7},
-ARTICLE-NUMBER = {1728},
-URL = {https://www.mdpi.com/2072-6643/15/7/1728},
-ISSN = {2072-6643}
-}
 ```
