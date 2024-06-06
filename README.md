@@ -3,14 +3,16 @@ In this work, we propose the first Central Asia Food Scenes Dataset that contain
 
 The dataset contains open source web-scraped images from the search engines (15,939 images) (i.e., Google, YouTube, and Yandex) and our own collected food images from everyday life (2,324 images). To additionally extend the number of instances of the underrepresented classes, we have scraped open-source videos and extracted frames at a rate one frame per second (3,043 images). The dataset has been checked and cleaned for duplicates using the Python Hash Image library. Furthermore, we have also filtered out images less than 30 kB in size and replaced them by performing additional iterative data scraping and duplicate check to make sure the high quality of the dataset.
 
+The dataset is unbalaced. The statistics across high-level 18 classes is shown on Figure below.
+
+<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/statistics.png" width="800" height="900">
+
 Sample Food scenes annotated images are shown below. Figures illustrate annotated food scenes samples based on our annotation rules that we have followed to create the dataset: the liquid objects such as beverages and soups are annotated together with the dish itself (see upper image), solid food items are annotated without the plate, in case one class is located on top of another class the annotations are made as shown on lower image; in case one class is obscured by another class and the rest of the background class is not visible we highlight only the visible part (see `Salad leaves' class annotation on the lower image. 
 
 <img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/protocol_1.png" width="800" height="700">
 <img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/protocol_2.png" width="800" height="700">
 
-The dataset is unbalaced. The statistics across high-level 18 classes is shown on Figure below.
 
-<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/statistics.png" width="800" height="900">
 
 # Dataset split across the folds
 
