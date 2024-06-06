@@ -38,19 +38,14 @@ To illustrate the performance of different classification models on CAFD we have
 Pre-trained weights of the YOLOv8 model can be downloaded using these links:
 
 ## YOLOv8n: 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
 ## YOLOv8s: 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
 ## YOLOv8m: 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
 ## YOLOv8l: 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
 ## YOLOv8x: 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
 
 
