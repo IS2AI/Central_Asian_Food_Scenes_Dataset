@@ -12,8 +12,8 @@ The dataset is unbalaced. The statistics across high-level 18 classes is shown o
 
 # Dataset split across the folds
 
-|Fold| Train| Validation| Test| Food1K+CAFD|
-|-----|-----------------|-----------------|--------------------|
+|Fold| Train| Valid| Test| 
+|----|-----------------|-----------------|--------------------|
 |images|17,046|2,084|2,176|
 |instances|55,422|7,062|7,381|
 
