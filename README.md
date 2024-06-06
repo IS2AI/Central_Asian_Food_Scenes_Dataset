@@ -24,17 +24,22 @@ To illustrate the performance of different classification models on CAFD we have
 
 Pre-trained model weights of the best performing models: ResNet152 on KFD and EfficientNet-b4 on Food1K+KFD can be downloaded using these links:
 
-## ResNet152 trained on CAFD: 
-
+## YOLOv8n: 
 https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
-## EfficientNet-b4 trained on Food1K+CAFD:
+## YOLOv8s: 
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/food1k_kfd_efficientnet.pt
+## YOLOv8m: 
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
-## Model training and testing
+## YOLOv8l: 
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
 
-To train and test using pre-trained models use train.py and test.py files. 
+## YOLOv8x: 
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
+
+
 
 ## References
 <a id="1">[1]</a> 
