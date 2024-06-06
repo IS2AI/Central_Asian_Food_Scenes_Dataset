@@ -1,12 +1,12 @@
 # Central_Asian_Food_Scenes_Dataset
-This is the repository for the Central Asian Food Scenes Dataset
+In this work, we propose the first Central Asia Food Scenes Dataset that contains 21,306 images with 69,856 instances across 239 food classes. To make sure that the dataset contains various food items, we took as a benchmark the ontology of Global Individual Food Tool developed by Food and Agriculture Organization (FAO) together with the World Health Organization (WHO)~\cite{FAO2022}. The dataset contains food items across 18 coarse classes: vegetables, baked flower-based products, cooked dishes, fruits, herbs, meat dishes, desserts, salads, sauces, drinks, dairy, fast-food, soups, sides, nuts, pickled and fermented food, egg product, and cereals. Fig.~\ref{fig: stats} illustrates the overall distribution of the class instances based on these categories. 
 
-Central Asian Food Scenes Dataset (CAFSD) for food object detection contains 21,305 images across 239 food classes commonly consumed in Central Asia. The dataset contains manually collected real-life images, web-scraped images and frames extracted from different videos. Images have various resolution.
-Figure below illustrates the samples and name for each class.
+
+The dataset contains open source web-scraped images from the search engines (15,939 images) (i.e., Google, YouTube, and Yandex) and our own collected food images from everyday life (2,324 images). To additionally extend the number of instances of the underrepresented classes, we have scraped open-source videos and extracted frames at a rate one frame per second (3,043 images). The dataset has been checked and cleaned for duplicates using the Python Hash Image library. Furthermore, we have also filtered out images less than 30 kB in size and replaced them by performing additional iterative data scraping and duplicate check to make sure the high quality of the dataset.
 
 Sample Food scenes annotated images are shown below. 
 
-<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/statistics.png" width="800" height="900">
+<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/protocol1" width="800" height="900">
 
 The dataset is unbalaced. The statistics across high-level 18 classes is shown on Figure below.
 
