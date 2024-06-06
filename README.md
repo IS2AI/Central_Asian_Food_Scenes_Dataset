@@ -4,7 +4,9 @@ This is the repository for the Central Asian Food Scenes Dataset
 Central Asian Food Scenes Dataset (CAFSD) for food object detection contains 21,305 images across 239 food classes commonly consumed in Central Asia. The dataset contains manually collected real-life images, web-scraped images and frames extracted from different videos. Images have various resolution.
 Figure below illustrates the samples and name for each class.
 
-<img src="https://github.com/IS2AI/Kazakh-Food-Dataset/blob/main/figures/samples.png" width="750" height="700">
+Sample Food scenes annotated images are shown below. 
+
+<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/statistics.png" width="800" height="900">
 
 The dataset is unbalaced. The statistics across high-level 18 classes is shown on Figure below.
 
@@ -23,13 +25,15 @@ The dataset can be downloaded using the link below. If there are some issues wit
 
 https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/CAFD.zip
 
-# Pre-trained models
+# Training results
 
 To illustrate the performance of different classification models on CAFD we have trained different models. We used the largest publicly available fine-grained dataset Food1K [[1]](#1) that contains 1,000 food classes to evaluate the performance of classifier with the 1,042 food categories.
 
 <img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/table_results.png" width="1200" height="290">
 
-Pre-trained model weights of the best performing models: ResNet152 on KFD and EfficientNet-b4 on Food1K+KFD can be downloaded using these links:
+# Pre-trained models
+
+Pre-trained weights of the YOLOv8 model can be downloaded using these links:
 
 ## YOLOv8n: 
 https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/cafd_resnet152.pt
