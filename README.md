@@ -25,7 +25,7 @@ Sample Food scenes annotated images are shown below. Figures illustrate annotate
 
 The dataset can be downloaded using the link below. If there are some issues with the link, please, email us on issai@nu.edu.kz
 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFD/CAFD.zip
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/CAFSD.zip
 
 # Training results
 
@@ -38,15 +38,19 @@ To illustrate the performance of different classification models on CAFD we have
 Pre-trained weights of the YOLOv8 model can be downloaded using these links:
 
 ## YOLOv8n: 
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8n.pt
 
 ## YOLOv8s: 
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8s.pt
 
 ## YOLOv8m: 
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8m.pt
 
 ## YOLOv8l: 
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8l.pt
 
 ## YOLOv8x: 
-
+https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8x.pt
 
 
 ## References
