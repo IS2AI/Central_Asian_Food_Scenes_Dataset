@@ -5,7 +5,7 @@ The dataset contains open source web-scraped images from the search engines (15,
 
 Sample Food scenes annotated images are shown below. 
 
-<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/protocol1" width="800" height="900">
+<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/protocol1.png" width="800" height="900">
 
 The dataset is unbalaced. The statistics across high-level 18 classes is shown on Figure below.
 
