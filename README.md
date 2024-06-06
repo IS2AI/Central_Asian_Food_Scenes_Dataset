@@ -9,7 +9,7 @@ The dataset is unbalaced. The statistics across high-level 18 classes is shown o
 
 Sample Food scenes annotated images are shown below. Figures illustrate annotated food scenes samples based on our annotation rules that we have followed to create the dataset: the liquid objects such as beverages and soups are annotated together with the dish itself (see upper image), solid food items are annotated without the plate, in case one class is located on top of another class the annotations are made as shown on lower image; in case one class is obscured by another class and the rest of the background class is not visible we highlight only the visible part (see `Salad leaves' class annotation on the lower image. 
 
-<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/protocol_1.png" width="800" height="680">
+<img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/protocol_1.png" width="800" height="650">
 <img src="https://github.com/IS2AI/Central_Asian_Food_Scenes_Dataset/blob/main/figures/protocol_2.png" width="800" height="680">
 
 
