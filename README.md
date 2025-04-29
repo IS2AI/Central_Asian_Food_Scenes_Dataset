@@ -96,8 +96,8 @@ Pre-trained weights of the YOLOv8 model can be downloaded using these links:
 
 ## 📖 References
 
-<a id="1">[1]</a> 
-European Commission: Impact assessment on measures addressing food waste to complete swd (2014) 207 regarding the review of EU waste management target (2014). Accessed 5-22-2024.
+[1] European Commission: Impact assessment on measures addressing food waste to complete swd (2014) 207 regarding the review of EU waste management target (2014). Accessed 5-22-2024.
+
 ---
 
 ## 📝 Citation
