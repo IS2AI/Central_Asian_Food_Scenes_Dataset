@@ -1,10 +1,7 @@
 # Central Asian Food Scenes Dataset
 
 In this work, we propose the first Central Asia Food Scenes Dataset that contains **21,306 images** with **69,856 instances** across **239 food classes**. To make sure that the dataset contains various food items, we took as a benchmark the ontology of Global Individual Food Tool developed by Food and Agriculture Organization (FAO) together with the World Health Organization (WHO) [1]. The dataset contains food items across **18 coarse classes**: 
-🍅 Vegetables • 🥖 Baked goods • 🍲 Cooked dishes • 🍎 Fruits • 🌿 Herbs  
-🍖 Meat dishes • 🍰 Desserts • 🥗 Salads • 🥫 Sauces • 🥤 Drinks  
-🧀 Dairy • 🍔 Fast food • 🍜 Soups • 🍟 Sides • 🥜 Nuts  
-🥒 Pickled & fermented • 🥚 Egg products • 🌾 Cereals  
+🍅 Vegetables • 🥖 Baked goods • 🍲 Cooked dishes • 🍎 Fruits • 🌿 Herbs • 🍖 Meat dishes • 🍰 Desserts • 🥗 Salads • 🥫 Sauces • 🥤 Drinks • 🧀 Dairy • 🍔 Fast food • 🍜 Soups • 🍟 Sides • 🥜 Nuts • 🥒 Pickled & fermented • 🥚 Egg products • 🌾 Cereals  
 
 The images come from:  
 - 🤖 **15,939** web-scraped images (i.e., Google, YouTube, Yandex)  
@@ -50,11 +47,10 @@ Sample Food scenes annotated images are shown below. Figures illustrate annotate
 
 ## 🔀 Dataset Splits
 
-| Fold   | Images  | Instances |
-|:------:|:-------:|:---------:|
-| Train  | 17,046  | 55,422    |
-| Valid  |  2,084  |  7,062    |
-| Test   |  2,176  |  7,381    |
+|Fold| Train| Valid| Test| 
+|----|-----------------|-----------------|--------------------|
+|images|17,046|2,084|2,176|
+|instances|55,422|7,062|7,381|
 
 ---
 
@@ -90,21 +86,23 @@ Training results of different versions of the YOLOv8 model on the Central Asian 
 
 Pre-trained weights of the YOLOv8 model can be downloaded using these links:
 
-- **YOLOv8n**: https://issai.nu.edu.kz/.../yolov8n.pt  
-- **YOLOv8s**: https://issai.nu.edu.kz/.../yolov8s.pt  
-- **YOLOv8m**: https://issai.nu.edu.kz/.../yolov8m.pt  
-- **YOLOv8l**: https://issai.nu.edu.kz/.../yolov8l.pt  
-- **YOLOv8x**: https://issai.nu.edu.kz/.../yolov8x.pt  
+- **YOLOv8n**: https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8n.pt
+- **YOLOv8s**: https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8s.pt
+- **YOLOv8m**: https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8m.pt  
+- **YOLOv8l**: https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8l.pt  
+- **YOLOv8x**: https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/yolov8x.pt  
 
 ---
 
 ## 📖 References
 
-[1] European Commission: Impact assessment on measures addressing food waste… (2014). Accessed May 22, 2024.
-
+<a id="1">[1]</a> 
+European Commission: Impact assessment on measures addressing food waste to complete swd (2014) 207 regarding the review of EU waste management target (2014). Accessed 5-22-2024.
 ---
 
 ## 📝 Citation
+
+In case of using our dataset and/or pre-trained models, please cite our work:
 
 ```bibtex
 @article{Karabay2025,
