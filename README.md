@@ -59,4 +59,17 @@ European Commission: Impact assessment on measures addressing food waste to comp
 
 
 # In case of using our dataset and/or pre-trained models, please cite our work:
-https://www.nature.com/articles/s41598-025-95770-9
+```bibtex
+@article{Karabay2025,
+  author    = {Karabay, Aknur and Varol, Huseyin Atakan and Chan, Mei Yen},
+  title     = {Improved food image recognition by leveraging deep learning and data-driven methods with an application to Central Asian Food Scene},
+  journal   = {Scientific Reports},
+  volume    = {15},
+  number    = {1},
+  pages     = {14043},
+  year      = {2025},
+  doi       = {10.1038/s41598-025-95770-9},
+  url       = {https://doi.org/10.1038/s41598-025-95770-9},
+  issn      = {2045-2322}
+}
+[📖 View the publication](https://doi.org/10.1038/s41598-025-95770-9)
