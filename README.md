@@ -21,6 +21,9 @@ Sample Food scenes annotated images are shown below. Figures illustrate annotate
 |images|17,046|2,084|2,176|
 |instances|55,422|7,062|7,381|
 
+
+## 📥 Download the Dataset
+
 You can get the data in two ways:
 
 1. **Hugging Face Hub**  
