@@ -21,11 +21,16 @@ Sample Food scenes annotated images are shown below. Figures illustrate annotate
 |images|17,046|2,084|2,176|
 |instances|55,422|7,062|7,381|
 
-# Download the dataset
+You can get the data in two ways:
 
-The dataset can be downloaded using the link below. If there are some issues with the link, please, email us on issai@nu.edu.kz
+1. **Hugging Face Hub**  
+   Browse or fetch individual files from our HF repo:  
+   🔗 [Central Asian Food Scenes Dataset](https://huggingface.co/datasets/issai/Central_Asian_Food_Scenes_Dataset)
 
-https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/CAFSD.zip
+2. **Direct download**  
+   Grab the full dataset archive here:  
+   ▶️ [Download ZIP](https://issai.nu.edu.kz/wp-content/themes/issai-new/data/models/CAFSD/CAFSD.zip)
+
 
 # Training results
 
