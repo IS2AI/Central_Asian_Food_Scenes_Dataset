@@ -59,5 +59,4 @@ European Commission: Impact assessment on measures addressing food waste to comp
 
 
 # In case of using our dataset and/or pre-trained models, please cite our work:
-```
-```
+https://www.nature.com/articles/s41598-025-95770-9
