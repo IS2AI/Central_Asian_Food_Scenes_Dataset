@@ -72,4 +72,5 @@ European Commission: Impact assessment on measures addressing food waste to comp
   url       = {https://doi.org/10.1038/s41598-025-95770-9},
   issn      = {2045-2322}
 }
+```
 [📖 View the publication](https://doi.org/10.1038/s41598-025-95770-9)
